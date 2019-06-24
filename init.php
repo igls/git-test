@@ -13,3 +13,5 @@ echo 'Feature A 4.1';
 echo 'Feature A 5';
 
 echo 'Feature A 6';
+
+echo 'Feature A 7';
